@@ -1,5 +1,5 @@
-# AlfredDisplayMenu
-workflow for Display Menu app in Alfred
+# Alfred Display Menu workflow
+workflow for fast-switcing beteen multiple res in Alfred via *Display Menu* app
 
 ## Usage
 
